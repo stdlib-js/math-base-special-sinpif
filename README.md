@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import sinpif from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sinpif@esm/index.mjs';
+import sinpif from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sinpif@v0.1.0-esm/index.mjs';
 ```
 
 #### sinpif( x )
@@ -81,7 +81,7 @@ y = sinpif( NaN );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import sinpif from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sinpif@esm/index.mjs';
+import sinpif from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sinpif@v0.1.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float32'
